@@ -1,0 +1,33 @@
+## In support
+
+- @react-native-community/netinfo_v4
+- downshift_v3.x.x
+- expo-asset_v6
+- expo-barcode-scanner_v6
+- expo-camera_v6
+- expo-constants_v6
+- expo-file-system_v6
+- expo-image-picker_v6
+- expo-location_v6
+- expo-permissions_v6
+- expo-secure-store_v6
+- fbt_v0
+- formik_v2
+- react-native-auth0_v1
+- react-native-fingerprint-scanner_v2
+- react-native-gesture-handler_v1
+- react-native-navigation_v2
+- react-native-onesignal_v3
+- react-native-orientation-locker_v1
+- react-native-orientation_v3
+- react-native-qrcode-svg_v5
+- react-native-section-list-get-item-layout_v2
+- react-native-status-bar-height_v2
+- react-native-svg-uri_v1
+- react-native-thumbnail-video_v0
+- react-native-unimodules_v0
+- react-native-video_v3
+- react-native-video_v4
+- react-native-webview_v5
+- redux-saga_v1
+- yup_v0
