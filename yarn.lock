@@ -520,10 +520,10 @@ react-native-auth0@^1.4.2:
     base-64 "^0.1.0"
     url "^0.11.0"
 
-react-native-fingerprint-scanner@^2.6.1:
-  version "2.6.2"
-  resolved "https://registry.yarnpkg.com/react-native-fingerprint-scanner/-/react-native-fingerprint-scanner-2.6.2.tgz#e9b5d40fa0bf7f96ccbf48e8702b54962b233bae"
-  integrity sha512-7mXqE9GUiK+Bh5sG+aVq1RGV94Z0PPl6qTibh6i4+ApZ3DU3HxsJ2di7vHTvZsJ1YfmQCHmQIXs4bNuwp20wEg==
+react-native-fingerprint-scanner@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-fingerprint-scanner/-/react-native-fingerprint-scanner-3.0.0.tgz#c1ddbef711ea2e599d7704bd8da37d64d24ccf9a"
+  integrity sha512-7hKCiluSxZxqhUV5hUndqriP91651QvSKOK87b4yFVqqBnYpeZV6rkrbz+sIW7u1zdvSb/z6zCVRqF4GbUUVtQ==
 
 react-native-gesture-handler@^1.3.0:
   version "1.3.0"
@@ -534,10 +534,10 @@ react-native-gesture-handler@^1.3.0:
     invariant "^2.2.2"
     prop-types "^15.5.10"
 
-react-native-navigation@^2.26.5:
-  version "2.26.5"
-  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-2.26.5.tgz#440c94b38d19f186e3b8ee8126eb81168e41064b"
-  integrity sha512-1NETnuUVB5NP/z8R5yJMmT2W1reOXHd6sLklkNoAaHXY+gtyOSwkSt2cLf6x71qZ6DsR4Od/vggN+bH54k5djw==
+react-native-navigation@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-navigation/-/react-native-navigation-3.0.0.tgz#eb87b767d48108d151e7efaad47dadfa53a0ac30"
+  integrity sha512-uYWNTfq30KcuFWKUgUIFFrwsGsB0HC23MUwGkvveN7AsmmPMmMcOD5sGAEZ5eTDcO8mTf5I1/U8ocvrqUTqUEw==
   dependencies:
     hoist-non-react-statics "3.x.x"
     lodash "4.17.x"
@@ -545,10 +545,10 @@ react-native-navigation@^2.26.5:
     react-lifecycles-compat "2.0.0"
     tslib "1.9.3"
 
-react-native-onesignal@^3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/react-native-onesignal/-/react-native-onesignal-3.3.1.tgz#2c0ca054896d0c6ff2d0f8ac26747eb9907d41b0"
-  integrity sha512-gEYv4vihaE67fxQiW9ibUt+jW4fjxsPgwqNaLopeKU6jp+YpQSzAur5wySx/QrqFjCrWK9WwQljq64bxpDscXA==
+react-native-onesignal@^3.3.2:
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/react-native-onesignal/-/react-native-onesignal-3.3.2.tgz#3c9cb7f8ac919de3f414089613a114406180a309"
+  integrity sha512-SZBGVVWZ5xAe2ALeE2L5HBIh6hfFKjFqARrV8U80zyLFUN8QatRy1eaXKAHgb7wvnCGR8FoNKI8qF+Z4kIKgjg==
   dependencies:
     invariant "^2.2.2"
 
