@@ -1,7 +1,7 @@
-## In support
+## Active support
 
 - @react-native-community/netinfo_v4
-- downshift_v3.x.x
+- downshift_v3
 - expo-asset_v6
 - expo-barcode-scanner_v6
 - expo-camera_v6
@@ -11,23 +11,47 @@
 - expo-location_v6
 - expo-permissions_v6
 - expo-secure-store_v6
-- fbt_v0
 - formik_v2
-- react-native-auth0_v1
-- react-native-fingerprint-scanner_v2
 - react-native-gesture-handler_v1
-- react-native-navigation_v2
-- react-native-onesignal_v3
+- react-native-navigation_v3
 - react-native-orientation-locker_v1
-- react-native-orientation_v3
-- react-native-qrcode-svg_v5
-- react-native-section-list-get-item-layout_v2
-- react-native-status-bar-height_v2
-- react-native-svg-uri_v1
-- react-native-thumbnail-video_v0
 - react-native-unimodules_v0
-- react-native-video_v3
 - react-native-video_v4
-- react-native-webview_v5
+- react-native-webview_v6
 - redux-saga_v1
 - yup_v0
+
+## Support only issues
+
+- @material-ui/icons_v4
+- archiver_v3
+- expo-asset_v4
+- expo-asset_v5
+- expo-barcode-scanner_v5
+- expo-camera_v4
+- expo-camera_v5
+- expo-constants_v4
+- expo-constants_v5
+- expo-file-system_v4
+- expo-file-system_v5
+- expo-image-picker_v4
+- expo-image-picker_v5
+- expo-location_v5
+- expo-permissions_v4
+- expo-permissions_v5
+- expo-secure-store_v4
+- expo-secure-store_v5
+- fbt_v0
+- react-native-auth0_v1 
+- react-native-fingerprint-scanner_v2 
+- react-native-navigation_v2 
+- react-native-onesignal_v3
+- react-native-orientation_v3
+- react-native-orientation_v3
+- react-native-qrcode-svg_v5
+- react-native-section-list-get-item-layout_v2 
+- react-native-status-bar-height_v2
+- react-native-svg-uri_v1 
+- react-native-thumbnail-video_v0
+- react-native-video_v3
+- react-native-webview_v5
