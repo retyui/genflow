@@ -58,10 +58,10 @@
   resolved "https://registry.yarnpkg.com/@redux-saga/types/-/types-1.0.2.tgz#1d94f02800b094753f9271c206a26c2a06ca14ee"
   integrity sha512-8/qcMh15507AnXJ3lBeuhsdFwnWQqnp68EpUuHlYPixJ5vjVmls7/Jq48cnUlrZI8Jd9U1jkhfCl0gaT5KMgVw==
 
-"@types/yup@^0.26.18":
-  version "0.26.22"
-  resolved "https://registry.yarnpkg.com/@types/yup/-/yup-0.26.22.tgz#66da181bfddaf797192f5fc2795583e033568407"
-  integrity sha512-AhUPifCc7j2BEfp+wye3Mj7v3mMhbtu5BbO7n0zpwC/NVSETc8+MHENRmoxjE8wLC8AmFr5+uEhg5cvqusaRFQ==
+"@types/yup@^0.26.23":
+  version "0.26.23"
+  resolved "https://registry.yarnpkg.com/@types/yup/-/yup-0.26.23.tgz#00721a3b675e7609e5bcccb94234e86b754bcd04"
+  integrity sha512-+tipAL6prdInS/avA6QityIFBDvHnqk1Tv9L5JMEws5IZC6agymBGAoDsrPyYp42wGcktyQtYKv9kvGPEKd4Qg==
 
 "@unimodules/core@~3.0.2":
   version "3.0.2"

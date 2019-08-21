@@ -10,7 +10,7 @@
   "dependencies": {
     "@react-native-community/netinfo": "^4.1.4",
     "@redux-saga/core": "^1.0.3",
-    "@types/yup": "^0.26.18",
+    "@types/yup": "^0.26.23",
     "downshift": "^3.2.12",
     "expo-asset": "^6.0.0",
     "expo-barcode-scanner": "^6.0.0",
