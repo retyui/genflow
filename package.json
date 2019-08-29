@@ -27,7 +27,7 @@
     "react-native-orientation-locker": "^1.1.6",
     "react-native-unimodules": "^0.5.4",
     "react-native-video": "^5.0.0",
-    "react-native-webview": "^6.9.0",
+    "react-native-webview": "^6.11.0",
     "shelljs": "^0.8.3"
   }
 }
